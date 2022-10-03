@@ -30,7 +30,7 @@ export default function About() {
           </h2>
           <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
             <div className="accordion-body">
-              <strong>Text Utils</strong><p>is  a web application which can be used to perform modifications on your text.</p>
+              <p><strong>Text Utils</strong>is  a web application which can be used to perform modifications on your text.</p>
             </div>
           </div>
         </div>
